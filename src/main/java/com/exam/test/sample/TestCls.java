@@ -40,10 +40,6 @@ vchar(256?)
 //            System.out.println("cnt[{}][{}]" + cnt + "][" + namegi);
         }
 //        System.out.println("cnt2[{}][{}]" + cnt + "][" + namegi);
-//        System.out.println(max%64);
-
-
-//        System.out.println(Math.pow(64, 2));
 
 
         for (int i = 0; i < 1073741824; i+=100000) {
