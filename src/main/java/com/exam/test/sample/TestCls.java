@@ -39,7 +39,6 @@ vchar(256?)
             cnt++;
 //            System.out.println("cnt[{}][{}]" + cnt + "][" + namegi);
         }
-//        System.out.println("cnt2[{}][{}]" + cnt + "][" + namegi);
 
 
         for (int i = 0; i < 1073741824; i+=100000) {
